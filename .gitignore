@@ -1,0 +1,18 @@
+# Archivos de compilación
+bin/
+obj/
+.vs/
+
+# Archivos de configuración sensibles
+appsettings.json
+appsettings.Development.json
+
+# Archivos específicos de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dependencias (si aplica)
+packages/
+node_modules/
